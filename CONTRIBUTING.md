@@ -4,16 +4,6 @@ Thanks for your interest in contributing! We appreciate your support, and we wel
 
 Before you start contributing, please take a moment to review this document to understand the process and guidelines for contributing to our project.
 
-## Table of Contents
-
-1. [Code of Conduct](#code-of-conduct)
-2. [How Can I Contribute?](#how-can-i-contribute)
-3. [Reporting Issues](#reporting-issues)
-4. [Development Guidelines](#development-guidelines)
-5. [Submitting Pull Requests](#submitting-pull-requests)
-6. [Review Process](#review-process)
-7. [Getting Help](#getting-help)
-
 ## Code of Conduct
 
 We have adopted a [Code of Conduct](./CODE_OF_CONDUCT.md) that we expect all community members to follow. Please make sure to review and adhere to it in all interactions within our community.
