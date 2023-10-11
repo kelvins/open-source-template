@@ -13,7 +13,6 @@ body:
       label: What do you need?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what do you need!
-      value: "I need a new feature!"
     validations:
       required: true
   - type: checkboxes
