@@ -11,10 +11,10 @@ body:
     id: question
     attributes:
       label: What happened?
-      description: Tell us, what are your concerns young padawan!
-      placeholder: Tell us what you want to know!
+      #description: Tell us, what are your concerns young padawan!
+      placeholder: Tell us, what are your concerns young padawan!
     validations:
       required: true
   - type: markdown
     attributes:
-      value: By submitting this issue, you agree to follow our [Code of Conduct](../../CODE_OF_CONDUCT.md)
+      value: By submitting this issue, you agree to follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
