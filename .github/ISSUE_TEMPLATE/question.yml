@@ -1,18 +1,13 @@
 name: ❓ Question
-description: I have a question
+description: I have a question and Google can't help me
 title: "[QUESTION]: "
 labels: ["question"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
-    id: question
     attributes:
       label: What's your question?
       description: Tell us, what are your concerns young padawan!
-      placeholder: Tell us, what are your concerns young padawan!
+      placeholder: How do I use the Force to sense and understand the world around me better?
     validations:
       required: true
   - type: markdown
