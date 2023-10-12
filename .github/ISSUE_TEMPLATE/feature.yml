@@ -3,10 +3,6 @@ description: Request a new feature
 title: "[FEATURE]: "
 labels: ["feature", "enhancement"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: what-do-you-need
     attributes:
@@ -15,11 +11,6 @@ body:
       placeholder: Tell us what do you need!
     validations:
       required: true
-  - type: checkboxes
-    id: terms
+  - type: markdown
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      value: By submitting this issue, you agree to follow our [Code of Conduct](../blob/main/CODE_OF_CONDUCT.md).
