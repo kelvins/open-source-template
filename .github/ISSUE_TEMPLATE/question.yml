@@ -6,7 +6,7 @@ body:
   - type: textarea
     attributes:
       label: What's your question?
-      description: Tell us, what are your concerns young padawan!
+      description: Tell us what your doubts are, young padawan!
       placeholder: How do I use the Force to sense and understand the world around me better?
     validations:
       required: true
